@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/nilesh-patil25/nilesh-patil25/blob/main/Github-Header2.png)]
+![MasterHead](https://github.com/nilesh-patil25/nilesh-patil25/blob/main/Github-Header2.png)
 <h1 align="center">Hi 👋, I'm Nilesh Patil</h1>
 <h3 align="center">A passionate .NET developer from India</h3>
 <img  align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477tmr62i3i5knq8kodc3yo8ukjem6l2wuz2gbmz4m&rid=giphy.gif&ct=g">
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **ASP.NET MVC,Client-side web development,Database management,SQL**
 
-- 📫 How to reach me **nilvpatil@gmail.com**
+- 📫 How to reach me **nilesh.patil74136@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
