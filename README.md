@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **.NET Core, .Net MVC , Client-side web development,Database management,SQL**
 
-- 📫 How to reach me **nilesh.patil74136@gmail.com**
+- 📫 You can reach me at **nilesh.patil74136@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
